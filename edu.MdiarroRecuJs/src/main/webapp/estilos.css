@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+header{
+	text-align: center;
+	color: blue;
+	text-decoration: underline solid 5px blue;
+}
